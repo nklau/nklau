@@ -15,6 +15,7 @@ My name is Natalie Lau, and I'm a computer science student at Loyola Marymount U
 <a href="https://github.com/nklau/CMSI186">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=CMSI186&theme=nightowl" />
 </a>
+
 <!--
 **nklau/nklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
