@@ -2,7 +2,7 @@
 
 ***
 
-
+My name is Natalie Lau, and I'm a computer science student at Loyola Marymount University with an interest in systems architecture and embedded systems. 
 <!--
 **nklau/nklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
