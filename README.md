@@ -13,10 +13,10 @@ My name is Natalie Lau, and I'm a computer science student at Loyola Marymount U
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nklau&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
 </a>
 
+<!--
 <a href="https://github.com/nklau/LMU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=LMU&theme=nightowl" />
 </a>
-<!--
 **nklau/nklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
