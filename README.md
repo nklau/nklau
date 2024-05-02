@@ -2,7 +2,7 @@
 
 My name is Natalie Lau, and I'm a computer science student at Loyola Marymount University with an interest in language design/semantics and game development.
 
-Take a look at the documentation for the programming language [Bang!](https://nklau.github.io/bang/)
+Take a look at the documentation for the programming language [Bang!](https://nklau-bang.notion.site/add467ede3dd452981516c57526a2991?v=f94f70ba09af4c369717612ca7803e87)
 
 ***
 
@@ -16,6 +16,9 @@ Take a look at the documentation for the programming language [Bang!](https://nk
 </a>
 <a href="https://github.com/nklau/bang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=bang&theme=nightowl" />
+</a>
+<a href="https://github.com/nklau/bella-stack-machine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=bella-stack-machine&theme=nightowl" />
 </a>
 <a href="https://github.com/nklau/CMSI2120">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=CMSI2120&theme=nightowl" />
